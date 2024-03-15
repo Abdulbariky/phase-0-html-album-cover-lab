@@ -33,7 +33,7 @@ h1 {
 }
 
 h2 {
-  font-size: 5.1em;
+  font-size: 4.1em;
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
@@ -55,9 +55,9 @@ h4 {
 }
 
 p {
-  font-size: .9em;
+  font-size: .6em;
   line-height: 1.8em;
-  letter-spacing: .103em;
+  letter-spacing: .184em;
   margin-bottom: 15px;
 }
 
@@ -65,7 +65,7 @@ span {
   display: inline-block;
   font-size: 1em;
   line-height: 1em;
-  letter-spacing: .35em;
+  letter-spacing: .15em;
   vertical-align: top;
   padding-top: 10px;
 }
@@ -110,3 +110,10 @@ img {
   margin-left: 163px;
   padding-top: 25px;
 }
+
+#title-box h4{
+  font-size: .6em;
+  line-height: 2em;
+}
+
+
